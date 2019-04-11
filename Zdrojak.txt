@@ -3,4 +3,5 @@ jedna a pol
 tri 
 styri 
 pat 
+sest
 
