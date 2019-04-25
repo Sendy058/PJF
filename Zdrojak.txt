@@ -4,4 +4,5 @@ tri
 styri 
 pat 
 sest
+sedem
 
